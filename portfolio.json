@@ -1,0 +1,5 @@
+{
+    "name": "Haskell",
+    "description": "Funktionale Programmierung ist ein Paradigma in der Softwareentwicklung, das sich auf die Verwendung von Funktionen als grundlegende Bausteine konzentriert. Im Gegensatz zu imperativen Programmierparadigmen, bei denen der Fokus auf Anweisungen liegt, die den Zustand eines Programms ändern, zielt die funktionale Programmierung darauf ab, Probleme durch die Auswertung von Funktionen zu lösen, ohne den Zustand zu verändern.",
+    "thumbnail": false
+}
